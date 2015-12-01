@@ -2,4 +2,4 @@
 
 - **Name:**: Julia Zhou
 - **Ocupation:**: Engineer
-- **Location:**: San Jose
+- **Location:**: San Jose, CA USA
