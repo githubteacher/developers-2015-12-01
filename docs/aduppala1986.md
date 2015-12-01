@@ -2,4 +2,5 @@
 
 - **Name:** Aradhana Duppala
 - **Occupation:** Software Engineer
-- **Location:** San Francisco
+- **Location:** San Francisco, California, USA
+- **Favourite Vacation Location:** New York City, New York, USA
