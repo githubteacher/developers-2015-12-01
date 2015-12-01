@@ -2,4 +2,4 @@
 
 - **Name:** Manny Ruiz
 - **Occumpation:** Developer
-- **Location:** Murrieta
+- **Location:** Murrieta, California, USA
