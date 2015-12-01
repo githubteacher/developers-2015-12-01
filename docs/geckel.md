@@ -2,4 +2,4 @@
 
 - **Name:** George
 - **Occupation:** Writer
-- **Location:** San Diego
+- **Location:** San Diego, north county
