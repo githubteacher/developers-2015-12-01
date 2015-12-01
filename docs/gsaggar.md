@@ -2,4 +2,4 @@
 
 - **Name:** Gautam Saggar
 - **Occupation:** Software Engineer
-- **Location:** Los Angeles
+- **Location:** Los Angeles, California, USA
