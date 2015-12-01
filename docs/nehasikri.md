@@ -2,4 +2,4 @@
 
 - **Name**: Neha Sikri
 - **Occupation**: Software Engineer
-- **Location**: Mountain View
+- **Location**: Mountain View, CA
