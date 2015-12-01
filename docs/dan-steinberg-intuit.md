@@ -3,3 +3,4 @@
 - **Occupation:** Software Engineer
 - **Location:** Mountain View, CA, USA
 - **Favorite Color:** Blue - No, Yellow!
+- **Favorite Disneyland Ride:** Haunted Mansion
