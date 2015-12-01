@@ -2,4 +2,4 @@
 
 - **Name**: Marina
 - **Occupation**: QE
-- **Location**: Mountain View
+- **Location**: Mountain View, CA
