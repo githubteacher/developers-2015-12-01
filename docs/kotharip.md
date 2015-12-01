@@ -2,4 +2,4 @@
 
 - **Name:** PriyaKothari
 - **Occupation:** Quality Engineer
-- **Location:** Mountain View
+- **Location:** Mountain View, California, USA
