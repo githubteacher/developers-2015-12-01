@@ -8,4 +8,6 @@
 <dd>Engineer</dd>
 <dt>Location</dt>
 <dd>Bay Area</dd>
+<dt>Favorite Travel Destination</dt>
+<dd>Paris</dd>
 </dl>
