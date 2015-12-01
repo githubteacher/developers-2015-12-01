@@ -1,5 +1,5 @@
 ## GitHub student bio
 
 - **Name:** PriyaKothari
-- **Occupation:** Qualty Engineer
+- **Occupation:** Quality Engineer
 - **Location:** MTV
