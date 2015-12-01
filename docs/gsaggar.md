@@ -1,4 +1,4 @@
-### GSaggar Bio
+## GSaggar Bio
 
 - **Name:** Gautam Saggar
 - **Occupation:** Software Engineer
